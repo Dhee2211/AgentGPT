@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "catalyst-activity-idempotency": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-activity-idempotency/SKILL.md",
+      "computedHash": "c79cfc0dbdfad996129c239ad2226e39feeeeb4d4fa3cfc71b247f84409bfc2d"
+    },
+    "catalyst-agent-harness": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-agent-harness/SKILL.md",
+      "computedHash": "c5b3e7671ec5af2df77c1eb66824974578f6c4d66cc89be8624b06b042361e7b"
+    },
+    "catalyst-agent-scaffold": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-agent-scaffold/SKILL.md",
+      "computedHash": "c77691b44a81c4e4afd9b67e18e535ee83782b1bf162088d9bf1f26a2241b68c"
+    },
+    "catalyst-app-tunnels": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-app-tunnels/SKILL.md",
+      "computedHash": "afebc6c4c8fad5296b799fcefa21771e7529eb720a41ea3fc37582891e6baf70"
+    },
+    "catalyst-debug": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-debug/SKILL.md",
+      "computedHash": "f29f3b9bdf85b617212ed2e17eca03d2e2ecdc7603f211f6ee6f2d89fe187abc"
+    },
+    "catalyst-deploy": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-deploy/SKILL.md",
+      "computedHash": "45c269537fb40defc40707ee3e945f8a0fb92ce02d6775e9c8293a2964492786"
+    },
+    "catalyst-develop": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-develop/SKILL.md",
+      "computedHash": "7cce75fdb910a24e12ea573be3a0107751f41b917b23cc903146f4750f9679c3"
+    },
+    "catalyst-operate": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-operate/SKILL.md",
+      "computedHash": "d24242dcfe35e57f7d3b4419e1d8c9682fff596d502d11f83ac6be5ecebf4d9d"
+    },
+    "catalyst-setup": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-setup/SKILL.md",
+      "computedHash": "db29433d04df8a9bec11c317bca957b1e56ded250e9e8df3c8ec6392aaa36f18"
+    },
+    "catalyst-workflow-determinism": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-workflow-determinism/SKILL.md",
+      "computedHash": "de78f5047e0c5aa451995de4148c694ff359bae575e700e38978507b9b08b0d8"
+    },
+    "catalyst-workflow-from-diagram": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-workflow-from-diagram/SKILL.md",
+      "computedHash": "4294da98240558b797772a6c6b5b14235fe5fcfd1ad3d37085ae7b3583a2d851"
+    },
+    "catalyst-workflow-scaffold": {
+      "source": "diagridio/catalyst-ai",
+      "sourceType": "github",
+      "skillPath": "skills/catalyst-workflow-scaffold/SKILL.md",
+      "computedHash": "952d000284369444bda6b597323e29a3933afc5f931ed6cbcad6730df495850c"
+    }
+  }
+}
